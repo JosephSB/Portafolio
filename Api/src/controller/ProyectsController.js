@@ -4,7 +4,7 @@ const ProyectsController = () => {};
 ProyectsController.getAll = (req, res) => {
   res.json({
     error: false,
-    results: data,
+    results: Object.values(data),
   });
 };
 
