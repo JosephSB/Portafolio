@@ -1,0 +1,146 @@
+{
+    "Skills":[
+      {
+        "name": "Frontend",
+        "tools": [
+          {
+            "name": "JS",
+            "fullname": "Javascript",
+            "icon":"https://josephsb-api.vercel.app/svg/js.svg",
+            "frameworks": [
+              {
+                "name": "React.js",
+                "icon": "https://josephsb-api.vercel.app/svg/reactjs.svg"
+              },
+              {
+                "name": "Next.js",
+                "icon": "https://josephsb-api.vercel.app/svg/nextjs.svg"
+              }
+            ]
+          },
+          {
+            "name": "CSS",
+            "fullname": "Css",
+            "icon":"fab fa-css3-alt",
+            "frameworks": [
+              {
+                "name": "Sass",
+                "icon": "https://josephsb-api.vercel.app/svg/sass.svg"
+              },
+              {
+                "name": "Styled Components",
+                "icon": "https://josephsb-api.vercel.app/svg/styledcomponents.svg"
+              }
+            ]
+          },
+          {
+            "name": "HTML",
+            "fullname": "Html",
+            "icon":"fab fa-html5",
+            "frameworks": [
+              {
+                "name": "pug",
+                "icon": "https://josephsb-api.vercel.app/svg/pug.svg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Backend",
+        "tools": [
+          {
+            "name": "NODE.JS",
+            "fullname": "Node.js",
+            "icon":"fab fa-node",
+            "frameworks": [
+              {
+                "name": "Express",
+                "icon": ""
+              },
+              {
+                "name": "Socket.IO",
+                "icon": "https://josephsb-api.vercel.app/svg/socketio.svg"
+              }
+            ]
+          },
+          {
+            "name": "PHP",
+            "fullname": "Php",
+            "icon":"fab fa-php",
+            "frameworks": [
+              {
+                "name": "Nativo",
+                "icon": ""
+              }
+            ]
+          },
+          {
+            "name": "Java",
+            "fullname": "Java",
+            "icon":"fab fa-java",
+            "frameworks": [
+              {
+                "name": "Spring Boot",
+                "icon": "https://josephsb-api.vercel.app/svg/spring.svg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "DATABASE",
+        "tools": [
+          {
+            "name": "NOSQL",
+            "fullname": "NOSQL",
+            "icon":"",
+            "frameworks": [
+              {
+                "name": "MongoDB",
+                "icon": "https://josephsb-api.vercel.app/svg/mongo.svg"
+              }
+            ]
+          },
+          {
+            "name": "SQL",
+            "fullname": "Sql",
+            "icon":"",
+            "frameworks": [
+              {
+                "name": "Mysql",
+                "icon": "https://josephsb-api.vercel.app/svg/mysql.svg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "DEVOPS",
+        "tools": [
+          {
+            "name": "Linux",
+            "fullname": "Linux",
+            "icon":"fab fa-linux",
+            "frameworks": [
+              {
+                "name": "Ubuntu",
+                "icon": "https://josephsb-api.vercel.app/svg/ubuntu.svg"
+              }
+            ]
+          },
+          {
+            "name": "Docker",
+            "fullname": "Docker",
+            "icon":"",
+            "frameworks": [
+              {
+                "name": "docker",
+                "icon": "https://josephsb-api.vercel.app/svg/docker.svg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+}
