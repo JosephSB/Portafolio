@@ -81,8 +81,8 @@
             "icon":"fab fa-java",
             "frameworks": [
               {
-                "name": "Spring Boot",
-                "icon": "https://josephsb-api.vercel.app/svg/spring.svg"
+                "name": "Nativo",
+                "icon": ""
               }
             ]
           }
@@ -99,6 +99,10 @@
               {
                 "name": "MongoDB",
                 "icon": "https://josephsb-api.vercel.app/svg/mongo.svg"
+              },
+              {
+                "name": "Elasticsearch",
+                "icon": "https://josephsb-api.vercel.app/svg/elasticsearch.svg"
               }
             ]
           },

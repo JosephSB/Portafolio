@@ -31,27 +31,71 @@
             }
         ]
     },
-    "p2":{
-        "id":"P2",
+    "p9":{
+        "id":"P9",
         "portadas" : [
-            "https://josephsb-api.vercel.app/Img/Proyects/Proyect2/portada1.webp",
-            "https://josephsb-api.vercel.app/Img/Proyects/Proyect2/portada2.webp",
-            "https://josephsb-api.vercel.app/Img/Proyects/Proyect2/portada3.webp",
-            "https://josephsb-api.vercel.app/Img/Proyects/Proyect2/portada4.webp"
+            "https://josephsb-api.vercel.app/Img/Proyects/Proyect9/portada1.webp",
+            "https://josephsb-api.vercel.app/Img/Proyects/Proyect9/portada2.webp",
+            "https://josephsb-api.vercel.app/Img/Proyects/Proyect9/portada3.webp",
+            "https://josephsb-api.vercel.app/Img/Proyects/Proyect9/portada4.webp"
         ],
-        "name":"Farmacheck",
-        "tags" : ["Api","Frontend"],
-        "description" : "Proyecto hecho en react.js donde consumo una api con locaciones y precios de medicamentos, en esta aplicacion puedes seleccionar tu ubicacion y encontrar los medicamentos con el mejor precio.",
-        "Repositorio": "",
-        "Demo": "https://farmacheck.preciso.pe/",
+        "name":"Chat App",
+        "tags" : ["Websockets", "Backend","Frontend","Database"],
+        "description" : "Aplicacion parecida a whatsapp, tiene una api con la que puedes buscar y agregar contactos, login, register y conversar con tus contactos",
+        "Repositorio":"https://github.com/JosephSB/CHAT-APP",
+        "Demo": "",
         "technologies":[              
+            {
+                "name": "Node.js",
+                "icon": "https://josephsb-api.vercel.app/svg/nodejs.svg"
+            },
+            {
+                "name": "SocketIO",
+                "icon": "https://josephsb-api.vercel.app/svg/socketio.svg"
+            },
+            {
+                "name": "Docker",
+                "icon": "https://josephsb-api.vercel.app/svg/docker.svg"
+            },
+            {
+                "name": "MongoDB",
+                "icon": "https://josephsb-api.vercel.app/svg/mongo.svg"
+            },
+            {
+                "name": "React.js",
+                "icon": "https://josephsb-api.vercel.app/svg/reactjs.svg"
+            }
+        ]
+    },
+    "p8":{
+        "id":"P8",
+        "portadas" : [
+            "https://josephsb-api.vercel.app/Img/Proyects/Proyect8/portada1.webp",
+            "https://josephsb-api.vercel.app/Img/Proyects/Proyect8/portada2.webp",
+            "https://josephsb-api.vercel.app/Img/Proyects/Proyect8/portada3.webp",
+            "https://josephsb-api.vercel.app/Img/Proyects/Proyect8/portada4.webp"
+        ],
+        "name":"App Marvel",
+        "tags" : ["Frontend", "Backend", "Database", "Api"],
+        "description" : "App que consume api de marvel, esta app permite logearte y poder darle fav a tus personajes favoritos",
+        "Repositorio": "https://github.com/JosephSB/App-Marvel",
+        "Demo": "/",
+        "technologies":[ 
+            {
+                "name": "Node.js",
+                "icon": "https://josephsb-api.vercel.app/svg/nodejs.svg"
+            },             
             {
                 "name": "React.js",
                 "icon": "https://josephsb-api.vercel.app/svg/reactjs.svg"
             },
             {
-                "name": "js",
-                "icon": "https://josephsb-api.vercel.app/svg/js.svg"
+                "name": "Docker",
+                "icon": "https://josephsb-api.vercel.app/svg/docker.svg"
+            },
+            {
+                "name": "MongoDB",
+                "icon": "https://josephsb-api.vercel.app/svg/mongo.svg"
             }
         ]
     },
@@ -100,6 +144,30 @@
         "description" : "Proyecto hecho en react.js donde consumo la api de la serie Rick y Morty",
         "Repositorio": "https://github.com/JosephSB/RickandMorty",
         "Demo": "https://rick-and-morty-pe.herokuapp.com/",
+        "technologies":[              
+            {
+                "name": "React.js",
+                "icon": "https://josephsb-api.vercel.app/svg/reactjs.svg"
+            },
+            {
+                "name": "js",
+                "icon": "https://josephsb-api.vercel.app/svg/js.svg"
+            }
+        ]
+    },
+    "p2":{
+        "id":"P2",
+        "portadas" : [
+            "https://josephsb-api.vercel.app/Img/Proyects/Proyect2/portada1.webp",
+            "https://josephsb-api.vercel.app/Img/Proyects/Proyect2/portada2.webp",
+            "https://josephsb-api.vercel.app/Img/Proyects/Proyect2/portada3.webp",
+            "https://josephsb-api.vercel.app/Img/Proyects/Proyect2/portada4.webp"
+        ],
+        "name":"Farmacheck",
+        "tags" : ["Api","Frontend"],
+        "description" : "Proyecto hecho en react.js donde consumo una api con locaciones y precios de medicamentos, en esta aplicacion puedes seleccionar tu ubicacion y encontrar los medicamentos con el mejor precio.",
+        "Repositorio": "",
+        "Demo": "https://farmacheck.preciso.pe/",
         "technologies":[              
             {
                 "name": "React.js",
@@ -192,38 +260,6 @@
             {
                 "name": "js",
                 "icon": "https://josephsb-api.vercel.app/svg/js.svg"
-            }
-        ]
-    },
-    "p8":{
-        "id":"P8",
-        "portadas" : [
-            "https://josephsb-api.vercel.app/Img/Proyects/Proyect8/portada1.webp",
-            "https://josephsb-api.vercel.app/Img/Proyects/Proyect8/portada2.webp",
-            "https://josephsb-api.vercel.app/Img/Proyects/Proyect8/portada3.webp",
-            "https://josephsb-api.vercel.app/Img/Proyects/Proyect8/portada4.webp"
-        ],
-        "name":"App Marvel",
-        "tags" : ["Frontend", "Backend", "Database", "Api"],
-        "description" : "App que consume api de marvel, esta app permite logearte y poder darle fav a tus personajes favoritos",
-        "Repositorio": "https://github.com/JosephSB/App-Marvel",
-        "Demo": "/",
-        "technologies":[ 
-            {
-                "name": "Node.js",
-                "icon": "https://josephsb-api.vercel.app/svg/nodejs.svg"
-            },             
-            {
-                "name": "React.js",
-                "icon": "https://josephsb-api.vercel.app/svg/reactjs.svg"
-            },
-            {
-                "name": "Docker",
-                "icon": "https://josephsb-api.vercel.app/svg/docker.svg"
-            },
-            {
-                "name": "MongoDB",
-                "icon": "https://josephsb-api.vercel.app/svg/mongo.svg"
             }
         ]
     }
